@@ -5,6 +5,7 @@
 The objective was to create a minishell.
 
 * You must run the code in a linux terminal.
+* Clone the repo.
 * If you are in a Windows machine you can follow these [steps](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) to enable `Windows Subsystem for Linux`.
 
 * Run `sudo apt-get update`
