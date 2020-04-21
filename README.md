@@ -1,2 +1,3 @@
-# SistemasOperativos
-Proyecto Sistemas operativos Minishell c++
+# Operating systems
+Operating systems project using C++.
+The objective was to create a minishell.
